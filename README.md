@@ -1,5 +1,5 @@
 # Online Code Editor ✨💻
- An intuitive online code editor designed to make writing and testing HTML, CSS, and JavaScript seamless and user-friendly. Whether you're a beginner exploring web development or an experienced coder needing a quick environment to test ideas, SPARK is here to ignite your creativity! 🚀
+ An intuitive online code editor designed to make writing and testing HTML, CSS, and JavaScript seamless and user-friendly. Whether you're a beginner exploring web development or an experienced coder needing a quick environment to test ideas,Online Code Editor is here to ignite your creativity! 🚀
 
 
 **🛠️ How It Works**
