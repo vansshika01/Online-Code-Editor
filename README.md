@@ -1,2 +1,39 @@
-# Online-Code-Editor
-Online Code Editor is a fast, user-friendly platform built with HTML, CSS, and JavaScript, allowing you to write, edit, and run code directly in your browser.
+# Online Code Editor ✨💻
+ An intuitive online code editor designed to make writing and testing HTML, CSS, and JavaScript seamless and user-friendly. Whether you're a beginner exploring web development or an experienced coder needing a quick environment to test ideas, SPARK is here to ignite your creativity! 🚀
+
+**🌟 Features**
+
+1. Interactive Interface: Switch effortlessly between HTML, CSS, and JavaScript editors using navigation buttons.
+ 
+2. Live Output Preview: See your code's output instantly in the embedded iframe.
+ 
+3. Stylish Design: Enjoy a smooth coding experience with responsive textarea styling, including focused and hover effects.
+ 
+4. Beginner-Friendly: A simple layout that encourages experimentation and learning.
+ 
+5. Cross-Platform: Runs entirely in your browser—no installations needed!
+
+**🛠️ How It Works**
+
+1. Choose your language: Use the buttons to navigate between HTML, CSS, and JavaScript editors.
+  
+2. Write your code: Type in the editor fields with syntax highlighting and focused effects.
+   
+3. Run your code: Click the "Run⟩" button to generate a live preview in the output area.
+
+**🎯Built with the vision of
+
+1. Experimenting with front-end web development.
+   
+2. Learning by doing in a supportive and straightforward environment.
+ 
+3. Testing small snippets of code quickly and efficiently.
+   
+**🔧 Future Enhancements**
+
+1. Theme Customization: Toggle between light and dark themes.
+   
+2. Mobile Optimization: Enhanced support for coding on smaller screens.
+  
+3. Error Highlighting: Detect and highlight errors in your code for easier debugging.
+
